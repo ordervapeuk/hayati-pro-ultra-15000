@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Allow: /
+Sitemap:https://ordervapeuk.github.io/hayati-pro-ultra-15000/sitemap.xml
